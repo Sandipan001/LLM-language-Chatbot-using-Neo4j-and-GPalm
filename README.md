@@ -1,6 +1,6 @@
 # LLM-language-Chatbot-using-Neo4j-and-GPalm
 
-![RobotHiRobotGIF](https://github.com/Sandipan001/LLM-language-Chatbot-using-Neo4j-and-GPalm/assets/72118890/da8ac3a2-4480-4c8e-95a3-7991d6e06c4f)
+![https://media.licdn.com/dms/image/sync/D4E10AQEzM7Gk4IPNFg/image-shrink_800/0/1685710097475/B2B-Glocal-APAC-SC-1200x1200-B3png?e=1702472400&v=beta&t=do56s_l4gn3oxIPvQpsnpnV2qxvYSQehlT4XE15dsWw]
 
 
 #### Hello Everyone in this repository there are all the code materials to Create a LLM chatbot for Language Learning using Neo4j Gpalm and makerssuite
