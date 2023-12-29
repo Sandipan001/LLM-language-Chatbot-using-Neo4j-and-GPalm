@@ -1,9 +1,10 @@
 # LLM-language-Chatbot-using-Neo4j-and-GPalm
 
+##### The project is about creating our own chatbot without using any API support to fetch data from the internet. Instead, we use the power of knowledge graphs to create our own dataset which we later integrate with our LLM Chatbot model. This is a unique and new experiment in the field of Generative AI.
 ![](https://i.ibb.co/DbqGpnL/Screenshot-2023-12-06-171048.png)
 
 
-#### Hello Everyone in this repository there are all the code materials to Create a LLM chatbot for Language Learning using Neo4j Gpalm and makerssuite
+#### Hello Everyone in this repository there are all the code materials to Create an LLM chatbot for Language Learning using Neo4j Gpalm and makers-suite
 ### You can also take a look at this video for this same project - https://www.youtube.com/watch?v=JFACWBVSLf8&ab_channel=DataDeer
 
 
